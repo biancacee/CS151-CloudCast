@@ -1,3 +1,4 @@
+Cloud Cast
 PROBLEM TO SOLVE We are hoping to address several issues relating to user access to accurate weather and temperature information that several weather apps currently face. We hope to solve the issue of the lack of accessibility by creating a weather app with a plethora of functionalities to display and predict accurate weather information as well as get rid of any inconsistencies in weather-predicting algorithms.
 
 PREVIOUS WORKS Projects from classes include: CMPE-131, CMPE-133, CMPE-157A
