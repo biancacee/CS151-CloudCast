@@ -18,19 +18,19 @@ With Maven we will need to add necessary dependencies for creating HTTP requests
 We hope to provide the best user experience in weather applications using an existing API to provide real-time weather forecasts.
 
 ### PLAN
-Decide which framework and database to use
-API integration with MetaWeather
-Create app architecture and design using SceneBuilder
-Use Agile development process
-Provide testing and quality assurance
-User registration and authentication
-Implementation of an alert system
+- Decide which framework and database to use
+- API integration with MetaWeather
+- Create app architecture and design using SceneBuilder
+- Use Agile development process
+- Provide testing and quality assurance
+- User registration and authentication
+- Implementation of an alert system
 
 ### APPROACH
-Use JavaFX for GUI
-Integrate public API MetaWeather
-Use JSON to parse responses
-Create an appealing UI to incorporate our project
+- Use JavaFX for GUI
+- Integrate public API MetaWeather
+- Use JSON to parse responses
+- Create an appealing UI to incorporate our project
 
 
 
@@ -40,13 +40,13 @@ The functionality of this application relies on the implementation of an API to 
 
 ### OPERATIONS
 End-user:
-Input and Change desired location for weather information using search criteria
-View and access weather information
-Input and view the desired time frame for weather information
-Access short-term, and long-term weather forecasts
-View sunrise and sunset times
-Customize Units and Preferences including degrees in Fahrenheit or Celsius
-View radar/satellite information
-Receive alerts and warnings
-Create an account to save preferred locations
-Delete account 
+- Input and Change desired location for weather information using search criteria
+- View and access weather information
+- Input and view the desired time frame for weather information
+- Access short-term, and long-term weather forecasts
+- View sunrise and sunset times
+- Customize Units and Preferences including degrees in Fahrenheit or Celsius
+- View radar/satellite information
+- Receive alerts and warnings
+- Create an account to save preferred locations
+- Delete account 
