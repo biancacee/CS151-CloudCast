@@ -1,4 +1,4 @@
-### Use Case Diagram [UMLWeatherApp.drawio.png]()
+### Use Case Diagram [WeatherUML.drawio.png]()
 
 - The actors of this use case diagram represent the users and their interactions with the system.
 The two actors are the system and a user.
